@@ -17,3 +17,21 @@ button {
     font-weight:bold;
     border-radius: 50px;
 }
+
+button:hover{
+    background-color: #767373;
+    cursor:pointer;
+}
+button:active{
+    background-color: #d5d1d1;
+}
+
+.operator-btn{
+    background-color: #c99f22;
+}
+.operator-btn:hover{
+    background-color: #e6c563;
+}
+.operator-btn:active{
+    background-color: #e8dbb5;
+}
