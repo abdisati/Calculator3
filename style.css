@@ -5,12 +5,14 @@ body{
     height: 100vw;
     align-items: center;
     box-sizing: content-box;
+    margin:20px;
 }
 
 #calculator{
     max-width: 500px;
   overflow: hidden;
     border-radius: 15px;
+    margin-top: 25px;
 }
 
 #keys{
@@ -27,7 +29,7 @@ body{
     background-color: #767373;
     color:#c99f22;
     text-align: left;
-    font-size: larger;
+    font-size: 25px;
     font-weight: bold;
 }
 
